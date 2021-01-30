@@ -1,0 +1,1 @@
+public class blue implements color{                                                           @Override                                                                              public String fill(){return "Color : Blue";}                                  }  

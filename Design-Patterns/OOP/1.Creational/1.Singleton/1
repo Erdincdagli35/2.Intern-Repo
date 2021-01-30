@@ -1,0 +1,6 @@
+class Testit{
+	public static void main(String [] args){
+		SingletonDP sExample = SingletonDP.getInstances();
+		System.out.println("Singleton Result : "+sExample);
+	}
+}

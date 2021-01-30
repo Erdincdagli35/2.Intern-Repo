@@ -1,0 +1,21 @@
+public class InstrumentKeeper {
+	
+	private Instrument Piano;
+	private Instrument Guitar;
+	private Instrument Drum;
+
+	public InstrumentKeeper(){
+		Piano = this.Piano;
+		Guitar = this.Guitar;
+		Drum =this.Drum;
+	}
+	
+	public void pianoSale(){
+		Piano.getName();
+		Piano.getPrice();		
+	}
+	public void drumSale(){                                                                         Drum.getName();                                                                         Drum.getPrice();                                                                } 
+	public void guitarSale(){                                                                         Guitar.getName();                                                                         Guitar.getPrice();                                                                } 
+	
+
+}
